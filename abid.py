@@ -1,0 +1,2 @@
+abid='hello'
+print(abid)
