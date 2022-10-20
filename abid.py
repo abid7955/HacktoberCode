@@ -1,2 +1,0 @@
-abid='hello'
-print(abid)
